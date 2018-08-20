@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 12.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '12'
+  targetSdkVersion: '23'
+sharedLibrary: false
+unknownFiles:
+  org/apache/http/version.properties: '8'
+  org/apache/http/entity/mime/version.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '203'
+  versionName: '2.03'
